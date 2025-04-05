@@ -18,8 +18,6 @@ A simple Travel Management System built to manage travel bookings, customer deta
 - **Others:** JDBC / Hibernate / Maven
 
 
-## 📦 Installation
+## 📦 Deployment
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/travel-management-system.git
+https://travel-management-system-delta.vercel.app/
